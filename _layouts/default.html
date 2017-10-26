@@ -1,19 +1,12 @@
-<!DOCTYPE html>
-<html lang="en">
+　　<!DOCTYPE html>
+　　<html>
+　　<head>
+　　　　<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+　　　　<title>{{ page.title }}</title>
+　　</head>
+　　<body>
 
-{% include head.html %}
+　　　　{{ content }}
 
-<!-- hack iOS CSS :active style -->
-<body ontouchstart="">
-
-    {{ content }}
-
-    {% include footer.html %}
-
-
-<!-- Image to hack wechat -->
-<!-- Migrate from head to bottom, no longer block render and still work -->
-
-</body>
-
-</html>
+　　</body>
+　　</html>
