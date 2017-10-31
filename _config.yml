@@ -39,7 +39,7 @@ kramdown:
 
 
 # Disqus settings
-#disqus_username: xxx
+# disqus_username: xxx
 
 # Netease setttings
 netease_comment: false
@@ -51,8 +51,8 @@ netease_comment: false
 # ba_track_id: [your track id]
 
 # Google Analytics
-#ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
-#ga_domain: xxx
+# ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
+# ga_domain: xxx
 
 
 
